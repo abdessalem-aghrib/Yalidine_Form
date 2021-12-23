@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23082269040",
+    "project_id": "yalidine-form",
+    "storage_bucket": "yalidine-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23082269040:android:056b006758b8eece7d37b5",
+        "android_client_info": {
+          "package_name": "com.yalidine.form.yalidine_form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23082269040-h1moiquddrk6kbbk2gg50hkpnuurqugc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1goDfOKY6Vtk9MHG2iN3RTT6atyybNmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23082269040-h1moiquddrk6kbbk2gg50hkpnuurqugc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
